@@ -1,9 +1,13 @@
 ### Buenas 👋
 
-<!--
-**audaz-AZ/audaz-AZ** is a ✨*special*✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### -------------------------------------------------
 
 ### - 🔭 I’m currently working on lua and html
 ### - 🌱 I’m currently learning css and js
+### - 🌆 I’m currently learning to desing clothes and buildings
+### - 🎃 FiveM 3D Modder 
+
+### -------------------------------------------------
+
+### 📸 - Ig ``_.huugo0._``
+### 🗯 - Dsc audaz#0001 
