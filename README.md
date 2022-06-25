@@ -4,8 +4,8 @@
 
 ### -------------------------------------------------
 
-### - 🔭 I’m currently working on lua and html
-### - 🌱 I’m currently learning css and js
+### - 🔭 I’m currently working on lua , html and css
+### - 🌱 I’m currently learning js
 ### - 🌆 I’m currently learning to desing clothes and buildings
 ### - 🎃 FiveM 3D Modder 
 
