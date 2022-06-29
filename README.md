@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F716&vCenter=true&lines=%C2%A1+Buenas+bienvenido+a+mi+GitHub+!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F716&vCenter=true&lines=Me+presento+%2C+soy+audaz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0097F7&vCenter=true&lines=Me+presento+%2C+soy+audaz-AZ)](https://git.io/typing-svg)
 
 <h1 align="center">¡ Buenas  👋,  audaz soy audaz !</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=audaz-az&label=Profile%20views&color=0e75b6&style=flat" alt="audaz-az" /> </p>
