@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%C2%A1+Bienvenido+a+mi+GitHub+!)](https://git.io/typing-svg)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F706&lines=Me+presento+soy+audaz)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm audaz</h1>
