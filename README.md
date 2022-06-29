@@ -5,16 +5,10 @@
 <h1 align="center">¡ Buenas  👋,  audaz soy audaz !</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=audaz-az&label=Profile%20views&color=0e75b6&style=flat" alt="audaz-az" /> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=audaz-az&label=Profile%20views&color=0e75b6&style=flat" alt="audaz-az" /> </p>
 - 🔭 I’m currently working on **LUA , HTML and CSS**
-<p align="center">
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=audaz-az&label=Profile%20views&color=0e75b6&style=flat" alt="audaz-az" /> </p>
-- 🌱 I’m currently learning **JS and PY**
-<p align="center">
-</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=audaz-az&label=Profile%20views&color=0e75b6&style=flat" alt="audaz-az" /> </p>
+- 🌱 I’m currently learning **JS and PY**
+
 - 🤝 I’m looking for help with **C++ and C#**
 <p align="center">
 </p>
