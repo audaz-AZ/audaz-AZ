@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0097F7&vCenter=true&lines=Me+presento+%2C+soy+audaz)](https://git.io/typing-svg)
 
-<h1 align="center">¡ Buenas  👋,  audaz soy audaz !</h1>
+<h1 align="center">¡ Buenas  👋, soy audaz !</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=audaz-az&label=Profile%20views&color=0e75b6&style=flat" alt="audaz-az" /> </p>
 
 - 🔭 I’m currently working on **LUA , HTML and CSS**
