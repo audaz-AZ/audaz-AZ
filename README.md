@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++ and C#*
 - 
-- 🌐 My new web is **audaz-portafolio.x10.mx**
+- 🌐 My new web is **https://audaz-portafolio.x10.mx**
 - 🌐 My old web is **https://audaz-az.github.io/AZ_Web/**
 <p align="center">
 </p>
