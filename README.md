@@ -7,11 +7,10 @@
 
 - 🔭 I’m currently working on **LUA , HTML and CSS**
 
-- 🌱 I’m currently learning **JS and PY**
-
-- 🤝 I’m looking for help with **C++ and C#**
-
-- 🌐 My web is **https://audaz-az.github.io/AZ_Web/**
+- 🌱 I’m currently learning **C++ and C#*
+- 
+- 🌐 My new web is **audaz-portafolio.x10.mx**
+- 🌐 My old web is **https://audaz-az.github.io/AZ_Web/**
 <p align="center">
 </p>
 
