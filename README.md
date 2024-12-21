@@ -2,12 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0097F7&vCenter=true&lines=Educational+Porpouses+%2C+only+!)](https://git.io/typing-svg)
 
-<h1 align="center">I am **audaz**</h1>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=audaz-az&label=Profile%20views&color=0e75b6&style=flat" alt="audaz-az" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=audaz-az" alt="audaz-az" /></a> </p>
+<h1 align="center">I am audaz</h1>
 
 - 🔭 I’m currently working on **LUA , HTML , CCS and Phyton**
 
