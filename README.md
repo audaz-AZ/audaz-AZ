@@ -3,7 +3,9 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FFFFFF&center=true&width=435&lines=AUDAZ)](https://git.io/typing-svg)
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=AUDAZ" style="display: block; margin: 0 auto;">
+</div>
 
 ---
 
