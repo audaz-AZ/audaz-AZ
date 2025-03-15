@@ -1,5 +1,5 @@
 
-<img style="display: flex; justify-content: center;" src="https://i.pinimg.com/736x/59/d4/32/59d4324bc5d5d634be85ad5b278af123.jpg" alt="Audaz Banner"/>
+<img style="display: flex; justify-content: center;" src="https://media.discordapp.net/attachments/1167817435395665991/1350521632770228346/image.png" alt="Audaz Banner"/>
 <h1 align="center"><img src="https://media.tenor.com/9Hiuq_uczMcAAAAj/counting-money-trouble.gif" width=50> AUDAZ <img src="https://media.tenor.com/9Hiuq_uczMcAAAAj/counting-money-trouble.gif" width=50></h1>
 
 
