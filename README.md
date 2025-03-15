@@ -3,7 +3,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ AUDAZ" style="display: block; margin: 0 auto; width: 435px;">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ AUDAZ" style="display: block; margin: 0 auto; width: 435px;">
 
 ---
 
